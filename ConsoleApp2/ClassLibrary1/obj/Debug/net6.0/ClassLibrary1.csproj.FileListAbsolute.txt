@@ -1,0 +1,12 @@
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+e:\Aug JAVA\dotnet\ConsoleApp2\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
