@@ -6,20 +6,20 @@ class MyThread{
     string thrdName;
 
     public Thread thrd;
-    public MyThread(string name){
+    public MyThread(string name, int num){
         Count = 0;
         thrd = new Thread(this.Run);
         thrd.Name = name;
-        thrd.Start();
+        thrd.Start(num);
     }
 
     //Entry point for the thread
     //containsthe code to be launched as a separate thread
-    void Run(){
+    void Run(object num){
         Console.WriteLine(thrd.Name+" starting");
         do{
             Thread.Sleep(500);
-            Console.WriteLine("In "+thrd.Name+", Count is "+Count);
+            Console.WriteLine("In "+thrd.Name+", Count is "+Count+" Passed: "+num);
             Count++;
         }
         while(Count<10);
@@ -29,11 +29,11 @@ class MyThread{
 class MultiThread{
     static void Main(){
         Console.WriteLine("Main thread starting");
-        MyThread mt = new MyThread("Child 1");
-        MyThread mt1 = new MyThread("Child 2");
-        MyThread mt2 = new MyThread("Child 3");
+        MyThread mt = new MyThread("Child 1", 5);
+        MyThread mt1 = new MyThread("Child 2", 4);
+        MyThread mt2 = new MyThread("Child 3", 3);
 
-        
+
         mt.thrd.Join();
         mt1.thrd.Join();
         mt2.thrd.Join();
