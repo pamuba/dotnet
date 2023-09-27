@@ -16,22 +16,20 @@ class MyThread{
     public Thread thrd;
     int result;
 
-    static object lk = new object();
+    object ob = new object();
 
-    public static ArraySun sumArray;
-    static ArraySun GetObj(){
-       return sumArray = new ArraySun();
-    }
+    public static ArraySun sumArray = new ArraySun();
 
     public MyThread(string name, int[] nums){
         thrd = new Thread(this.Run);
         thrd.Name = name;
+        a = nums;
         thrd.Start();
     }
     public void Run(){
         Console.WriteLine(thrd.Name+" starting");
-        lock(lk) result = MyThread.GetObj().Sum(a);
-        Console.WriteLine(thrd.Name+  "terminating");
+        lock(sumArray) result = sumArray.Sum(a);
+        Console.WriteLine(thrd.Name+  " terminating");
     }
 }
 
