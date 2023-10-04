@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\Partha.bora\\.nuget\\packages\\",
-        "outputPath": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\obj\\",
+        "outputPath": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\Partha.bora\\.nuget\\packages\\",
-        "outputPath": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj": {
-                "projectPath": "d:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj"
+              "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ClassLibrary1\\ClassLibrary1.csproj"
               }
             }
           }

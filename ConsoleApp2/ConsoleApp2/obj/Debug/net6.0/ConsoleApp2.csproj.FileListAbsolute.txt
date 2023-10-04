@@ -16,3 +16,11 @@ e:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
 e:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.dll
 e:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.pdb
 e:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+d:\Aug JAVA\dotnet\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
