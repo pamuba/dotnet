@@ -18,13 +18,20 @@ namespace ConsoleApp2
             Console.ReadKey();
         }
 
-        public static void SomeMethod()
+        public async static void SomeMethod()
         {
             Console.WriteLine("Some Method Started......");
 
-            Thread.Sleep(TimeSpan.FromSeconds(10));
-            Console.WriteLine("\n");
+            //Thread.Sleep(TimeSpan.FromSeconds(5));
+            //await Task.Delay(TimeSpan.FromSeconds(10));
+            Wait();
+            //Console.WriteLine("\n");
             Console.WriteLine("Some Method End");
+        }
+        private static async void Wait()
+        {
+            await Task.Delay(TimeSpan.FromSeconds(10));
+            Console.WriteLine("\n10 Seconds wait Completed\n");
         }
     }
 }

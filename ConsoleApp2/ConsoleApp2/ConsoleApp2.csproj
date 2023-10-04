@@ -9,7 +9,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp2.Async1</StartupObject>
+    <StartupObject>ConsoleApp2.Async2</StartupObject>
   </PropertyGroup>
 
 </Project>
