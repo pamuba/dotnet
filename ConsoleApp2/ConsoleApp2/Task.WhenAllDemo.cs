@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    internal class TaskDemo
+    internal class TaskDemo1
     {
         static void Main(){
             Console.WriteLine("main thread started");
@@ -24,7 +24,7 @@ namespace ConsoleApp2
 
             var tasks = new List<Task<string>>();
 
-
+            //SemophoreSlim
             //await Task.Run
             //Processing
             foreach (var creditCard in creditCards)

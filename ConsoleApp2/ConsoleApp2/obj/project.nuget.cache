@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Mb8pHLMznn1W1eZp2sl/pcK4yOHf8arPeo6KKSZm696P1GZnk/Lz4MKJ1CIQwqQeZgI+e7z5IWrX+gR2ftncBQ==",
+  "dgSpecHash": "1O5blm71uYvJeR4vHwYFshuMFy0GgBPca2iVgw+QpajwyMq1+Ds823Y4ydkv3mR6zSig+hJA6rG30k9zyaZNFA==",
   "success": true,
   "projectFilePath": "D:\\Aug JAVA\\dotnet\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Partha.bora\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Partha.bora\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
