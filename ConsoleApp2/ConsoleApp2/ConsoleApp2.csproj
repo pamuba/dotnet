@@ -13,7 +13,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ParallelProgrammingDemo.ParallelDemo2</StartupObject>
+    <StartupObject>ConsoleApp2.AutoMapper.AutoMapper</StartupObject>
   </PropertyGroup>
 
 </Project>

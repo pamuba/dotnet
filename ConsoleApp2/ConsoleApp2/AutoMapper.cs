@@ -63,6 +63,8 @@ namespace ConsoleApp2New
             var empDTO2 = mapper.Map<Employee, EmployeeDTO>(emp);
 
             Console.WriteLine("Name: " + empDTO1.Name + ", Salary: " + empDTO1.Salary + ", Address: " + empDTO1.Address + ", Department: " + empDTO1.Department);
+            Console.WriteLine("Name: " + empDTO2.Name + ", Salary: " + empDTO2.Salary + ", Address: " + empDTO2.Address + ", Department: " + empDTO2.Department);
+
             Console.ReadLine();
         }
     }
